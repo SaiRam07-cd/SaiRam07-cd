@@ -1,37 +1,41 @@
-# 📊 Data Analytics Portfolio
+# Hi, I'm Sai Ram Reddy Sajjala! 👋
 
-Hi! I'm **Sai Ram Reddy Sajjala**, a Computer Science student at Rowan University, graduating in May 2028.
+### 🎓 Computer Science Student | Aspiring Data Analyst
 
-I'm developing practical data analytics skills through projects involving Excel, A/B testing, data exploration, and Tableau. I'm interested in applying data-driven insights to real-world business problems.
+I'm pursuing a **Bachelor of Science in Computer Science at Rowan University**, with an expected graduation date of **May 2028**.
 
-## 🛠️ Technical Skills
+I'm passionate about using data to discover trends, solve problems, and support data-driven decisions. I'm building hands-on experience through data analytics projects involving Excel, A/B testing, data visualization, and Tableau.
+
+### 🛠️ Technical Skills
 
 - **Programming:** Python
-- **Excel:** Pivot Tables, XLOOKUP, Charts
-- **Analytics:** A/B Testing, Trend Analysis, Data Interpretation
+- **Data Analytics:** A/B Testing, Trend Analysis, Data Interpretation
+- **Microsoft Excel:** Pivot Tables, XLOOKUP, Charts
 - **Visualization:** Excel, Tableau (Learning)
+- **Core Skills:** Problem-Solving, Analytical Thinking, Communication
 
-## 📁 My Projects
+### 📊 Featured Projects
 
-| Project | Tool | Project File |
-|---|---|---|
-| H&M A/B Testing | Excel | [View Project](Milestone-AB-Testing-H%26M.xlsx) |
-| Warby Parker A/B Testing | Excel | [View Project](Milestone-AB-Testing-Warby-Parker.xlsx) |
-| DoorDash Delivery Analysis | Excel | [View Project](Milestone-Doordash-Delivery-Analysis.xlsx) |
-| YouTube Trending Analysis | Excel | [View Project](Milestone-YouTube-Trending-Analysis.xlsx) |
-| Winter Sports Interest Analysis | Excel | [View Project](Milestone-Winter-Sports-Interest-Analysis.xlsx) |
-| Grammys Website Performance | Excel | [View Project](Project-Analyzing-Website-Performance-Grammys.xlsx) |
-| UNESCO Analysis | Tableau | [View Project](M2_UNESCO-Student.twbx) |
-| Forbes Celebrity Earnings | Tableau | [View Project](M3_Forbes_HighestPaidCelebrities-Student.twbx) |
+My [Data Analytics Portfolio](https://github.com/SaiRam07-cd/data-analytics-portfolio) contains projects and coursework involving:
 
-## 🎯 Career Goal
+- **A/B Testing:** H&M and Warby Parker analysis workbooks
+- **DoorDash Delivery Analysis:** Excel-based analysis
+- **YouTube Trending Analysis:** Data exploration in Excel
+- **Website Performance:** Grammys website analysis
+- **Tableau Projects:** UNESCO and Forbes celebrity earnings workbooks
 
-I'm seeking **Summer 2027 Data Analyst internship opportunities** where I can apply my analytical and technical skills, learn from experienced professionals, and contribute to data-driven decision-making.
+I'm continuing to improve the documentation and insights for these projects.
 
-## 🔗 Connect With Me
+### 🚀 Currently Working On
 
-[LinkedIn](https://www.linkedin.com/in/sai-ram-reddy-sajjala-852b6037b/) | [GitHub](https://github.com/SaiRam07-cd)
+- Strengthening my Python data analysis skills
+- Learning Tableau and dashboard development
+- Improving my analytics portfolio
+- Preparing for **Summer 2027 Data Analyst internships**
 
----
+### 📫 Connect With Me
 
-*Continuously learning and improving my data analytics skills.*
+- [LinkedIn](https://www.linkedin.com/in/sai-ram-reddy-sajjala-852b6037b/)
+- [GitHub Portfolio](https://github.com/SaiRam07-cd/data-analytics-portfolio)
+
+*Always learning, building, and turning data into meaningful insights.*
